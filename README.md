@@ -1,2 +1,2 @@
-# VBA-challenge
-VBA homework
+# VBA project
+An exercise in automation using VBA
